@@ -33,15 +33,15 @@ The HR Employee Leave Management System allows employees to apply for leave onli
 
 <img src="home.png" width="700">
 
-## Apply Leave
+## Apply Leave Page
 
 <img src="apply_leave.png" width="700">
 
-## Leave History
+## Leave History Page
 
 <img src="leave_history.png" width="700">
 
-## HR Dashboard
+## HR Dashboard Page
 
 <img src="hr_dashboard.png" width="700">
 
