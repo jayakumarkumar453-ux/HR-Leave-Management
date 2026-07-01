@@ -27,6 +27,13 @@ The HR Employee Leave Management System allows employees to apply for leave onli
 - VS Code
 - MySQL Command Line / MySQL Workbench
 
+
+
+## Home Page
+
+![Home Page](home.png)
+
+
 ---
 
 ## 📂 Project Structure
