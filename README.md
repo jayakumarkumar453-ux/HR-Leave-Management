@@ -31,7 +31,7 @@ The HR Employee Leave Management System allows employees to apply for leave onli
 
 ## Home Page
 
-<img src="home.png" width="800">
+<img src="home.png" width="750">
 
 ## Apply Leave
 
